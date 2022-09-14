@@ -107,7 +107,7 @@ def _generate_new_token():
 
     print("Generating new access token")
     # client id for the abc-classroom-bot GitHub App
-    client_id = "Iv1.8df72ad9560c774c"
+    client_id = "Iv1.a0eb9755f588f3b0"
 
     # TODO need to handle cases where the device call fails - wrong client_id,
     # the user could ^C or the internet could be out, or some other
